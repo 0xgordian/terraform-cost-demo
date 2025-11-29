@@ -2,6 +2,12 @@
 
 This Terraform configuration creates common AWS resources for testing Infracost CLI cost estimation features.
 
+## Cost Estimation Preview
+
+Here's an example of what the Infracost cost estimation output looks like:
+
+![Infracost Cost Estimation](screenshot.png)
+
 ## Resources Included
 
 1. **EC2 Instance (t3.medium)**
